@@ -1,0 +1,3 @@
+How to use the autograder:
+1. Copy your nyush-YourNetID.tar.xz archive to the nyush-autograder directory
+2. Inside the nyush-autograder directory, run ./gradeit.sh

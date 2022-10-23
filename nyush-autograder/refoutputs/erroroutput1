@@ -1,0 +1,2 @@
+/bin/ls: invalid option -- 'e'
+Try '/bin/ls --help' for more information.
